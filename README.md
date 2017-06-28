@@ -5,4 +5,4 @@ Mail API for nukkit
 > mail.send("from@mail.com", "to@mail.com", "Title", "text", "text/plain");
 > Отправка с использованием html:
 > Код:
-> mail.send("from@mail.com", "to@mail.com", "Title", "<h1>Hey</h1><hr><p>Good job, bro!</p>", "text/html");
+> mail.send("from@mail.com", "to@mail.com", "Title", "<h1>Hey<//h1><hr>><p>Good job, bro!<//p>", "text/html");
