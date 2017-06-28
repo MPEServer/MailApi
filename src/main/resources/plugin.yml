@@ -1,0 +1,5 @@
+name: MailApi
+main: tech.teslex.mail.Main
+version: "0.1"
+api: ["1.0.0"]
+author: expexes
